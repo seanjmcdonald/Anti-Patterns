@@ -2,7 +2,7 @@
 
 
 
-<a href="https://sourcemaking.com/antipatterns/swiss-army-knife">Image</a>
+[logo]: https https://sourcemaking.com/antipatterns/swiss-army-knife
 
 
 A class that is trying to solve all possible thing that might happen or similar to a master class. A class that is focused on doing many things as opposed to one.
